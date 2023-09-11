@@ -1,0 +1,22 @@
+.logo img {
+    width: 246px;
+    height: 203px;
+    right: 88px;
+    left: 7;
+}
+
+.menu li ul {
+   list-style: none;
+   text-decoration: none;
+   display: block;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-weight: lighter;
+   font-size: 28px;
+   color: black;
+   position: relative;
+   float: left;
+}
+
+.buttonSubmit{
+    background-image: linear-gradient(to left, #0000FF, to right, #CD0093);
+}
